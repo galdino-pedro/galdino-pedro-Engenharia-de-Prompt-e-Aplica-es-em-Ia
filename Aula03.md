@@ -1,0 +1,3 @@
+<img width="715" height="326" alt="Tokenizar" src="https://github.com/user-attachments/assets/98491558-f013-4df9-b117-513106a0d4ce" />
+<img width="1877" height="950" alt="Frase" src="https://github.com/user-attachments/assets/ecc98232-4fa4-4555-8a6f-9085b31646b3" />
+A eficácia de um modelo de linguagem está intrinsecamente ligada à sua unidade fundamental: o token. Como a IA opera sobre padrões estatísticos em vez de caracteres individuais, tarefas que exigem precisão granular (como contagens) impõem um desafio de 'desconstrução' desses blocos. Uma tokenização otimizada não apenas dita a extensão da memória de curto prazo (janela de contexto), mas é o fator determinante para a coesão lógica e a velocidade de processamento da resposta final.
