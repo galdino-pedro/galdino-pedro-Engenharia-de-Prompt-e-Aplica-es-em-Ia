@@ -57,6 +57,8 @@ def media(n1, n2):
     return "aprovado"
   else:
     return "reprovado"
+    
+<img width="250" height="186" alt="image" src="https://github.com/user-attachments/assets/5c313f12-19b0-4b9e-a6b6-b00149b533aa" />
 
 
 Código Refinado
