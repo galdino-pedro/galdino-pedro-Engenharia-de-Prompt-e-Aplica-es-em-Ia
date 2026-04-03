@@ -60,10 +60,5 @@ def media(n1, n2):
 
 
 Código Refinado
-def calcular_status_aluno(nota_1, nota_2):
-    """Calcula a média e define se o aluno foi aprovado ou reprovado."""
-    media_final = (nota_1 + nota_2) / 2
-    
-    if media_final >= 7.0:
-        return "Aprovado"
-    return "Reprovado"
+<img width="800" height="595" alt="image" src="https://github.com/user-attachments/assets/60150730-f5a8-4d4c-96a5-147bda8bfaf6" />
+
