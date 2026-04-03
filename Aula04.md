@@ -63,3 +63,8 @@ Código Refinado
 
 <img width="800" height="595" alt="image" src="https://github.com/user-attachments/assets/60150730-f5a8-4d4c-96a5-147bda8bfaf6" />
 
+
+Variável,Tipo,O que ela faz?
+nota_1,Float,Armazena o valor da primeira prova.
+nota_2,Float,Armazena o valor da segunda prova.
+media_final,Float,Guarda o resultado da soma das notas dividida por dois.
